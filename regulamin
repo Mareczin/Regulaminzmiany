@@ -87,6 +87,7 @@ Administrator jest zobowiązany do wypełniania swoich obowiązków na serwerze 
 Administrator musi znać regulamin i go przestrzegać. Powinien świecić przykładem, być osobą kulturalną, pomocną, opanowaną, zrównoważoną, obiektywną w podejmowanych działaniach.
 Administrator nie jest zobowiązany do tłumaczenia się z każdego działania, chyba że wymaga od niego tego właściciel.
 Zadaniem administratora jest czuwanie nad bezpieczeństwem użytkownika i dbanie o kulturę na serwerze.
+Administrator może tylko i wyłącznie przebywać na serwerze oraz z niego korzystać tylko na tym unikalnym identyfikatorze na którym posiada rangę administracyjną.
 Wpisywaniem plusów/minusów oraz respektowaniem ich zajmuję się Zarząd Serwera lub Przewodniczący Komitetu Nadzoru Administracji.
 Administrator awansuję tylko i wyłącznie w przypadku uzyskania odpowiedniej ilości plusów oraz spełniania wymaganego stażu.
 Plusy można zdobyć za: .
@@ -94,7 +95,7 @@ Obecność na zebraniu Administracji.
 przykładną i szczególnie wydajną pracę.
 Minusy można otrzymać za.
 nieusprawiedliwioną wcześniej nieobecność na zebraniu Administracji.
-nieusprawiedliwioną nie aktywność na serwerze dłuższą niż 10 dni.
+nieusprawiedliwioną nie aktywność na serwerze dłuższą niż 2 dni.
 ignorowanie osób, które oczekują na pomoc.
 wymuszanie/proszenie o wstawienie plusów.
 Administrator po uzyskaniu 3 minusów automatycznie zostanie wcześniej zdegradowany o 1 rangę.
@@ -127,6 +128,7 @@ Działanie na szkodę serwera; ban permanentny.
 We wszelkich innych kwestiach administracja wymierza karę wedle sprawiedliwego osądu, a także podejmuje ostateczną decyzję co do jej wymiaru.
 Działanie te musi być podparte umotywowanym opisem powodu.
 Na kare nie mogą wpływać emocję administratora.
+Wartości minimalne kar podlegają tylko i wyłącznie osądowi administratora czyli Administrator może wymierzyć karę poniżej wartości minimalnej wedle własnego osądu.
 §7 Zarząd Serwera
 
 Zarząd Serwera to osoby z rangą CEO i vCEO, które zarządzają i nadzorują pracę serwera.Nowa zasada!
