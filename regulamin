@@ -108,20 +108,26 @@ Administrator może wziąść urlop, jeżeli od poprzedniego urlopu mineło co n
 Wyjątkiem są nadzwyczajne powody/przyczyny chęci wzięcia urlopu.
 §6 Przewinienia i kary
 
-Kary pierwszego stopnia to: Ostrzeżenie, Kara na mówienie, pisanie lub awatar.
+Kary pierwszego stopnia to: Ostrzeżenie słowne, wyrzucenie z serwera z uzasadnionym powodem, Kara na mówienie, pisanie lub awatar.
 
-Nieprzestrzeganie zasad kultury; upomnienie, wyrzucenie z serwera, kara pierwszego stopnia, ban od 2 godzin do 2 dni.
+Administrator powinien zastosować karę pierwszego stopnia, jeżeli ma taką możliwość.
+W przypadku większych nadużyć lub sytuacji, które wymagają natychmiastowego działania Administrator może pominąć karę pierwszego stopnia.
+Nieprzestrzeganie zasad kultury; kara pierwszego stopnia, ban od 2 godzin do 2 dni.
 Obrażanie użytkowników (administrator to także użytkownik serwera); kara pierwszego stopnia, ban od 10 godzin do 4 dni.
-Zakłócanie spokoju innych użytkowników; upomnienie, wyrzucenie z serwera, kara pierwszego stopnia, ban od 10 godzin do 3 dni.
-Reklamowanie bez zgody administracji; ban permanentny.
-Używanie nazw niezgodnych z zasadami; upomnienie, wyrzucenie z serwera, ban od 3 godzin do 1 dni.
+Zakłócanie spokoju innych użytkowników; kara pierwszego stopnia, ban od 10 godzin do 3 dni.
+Reklamowanie bez zgody administracji:
+Reklamowanie konkurencyjnych komunikatorów głosowych: nakazanie usunięcia treści reklamujących, ban permanentny.
+Reklamowanie innych treści: nakazanie usunięcia treści reklamujących, ban od 1 dnia do 30 dni.
+Używanie nazw niezgodnych z zasadami; kara pierwszego stopnia, wyrzucenie z serwera, ban od 3 godzin do 1 dni.
 Podszywanie się pod członków administracji; ban od 30 dni do permanentnego.
-Podszywanie się pod innego użytkownika; ban od 3 dni do 7 dni.
-Nadużywanie funkcji automatycznych serwera; upomnienie, kara pierwszego stopnia, wyrzucenie z serwera, ban od 4 godziny do 3 dni.
-Spamowanie, bezmyślne skakanie po kanałach i podobne; upomnienie, kara pierwszego stopnia, wyrzucenie z serwera, ban od 2 godzin do 2 dni.
-Marnowanie czasu administracji (trolling); upomnienie, kara pierwszego stopnia, wyrzucenie z serwera, ban od 3 godzin do 4 dni.
-Awatar niezgodny z zasadami; upomnienie, kara pierwszego stopnia, wyrzucenie z serwera, ban od 10 minut do 1 godziny.
-Nagrywanie, bądź stream'owanie na kanałach gdzie jest to niedozwolone; kara pierwszego stopnia, wyrzucenie z serwera, ban od 4 godzin do 1 dni.
+Podszywanie się pod:
+Osoby publiczne (Youtuberzy,streamerzy itp); możliwość przeprowadzenia weryfikacji (tylko i wyłącznie w przypadku kiedy mamy uzasadnione podejrzenia), nakazanie zmiany nazwy, kara pierwszego stopnia, ban od 1 godziny do 3 dni.
+użytkowników serwera: możliwość przeprowadzenia weryfikacji (tylko i wyłącznie w przypadku kiedy mamy uzasadnione podejrzenia), nakazanie zmiany nazwy, kara pierwszego stopnia, ban od 1 godziny do 2 dni.
+Nadużywanie funkcji automatycznych serwera; upomnienie, kara pierwszego stopnia, ban od 4 godziny do 3 dni.
+Spamowanie, bezmyślne skakanie po kanałach i podobne; upomnienie, kara pierwszego stopnia, ban od 2 godzin do 2 dni.
+Marnowanie czasu administracji (trolling); upomnienie, kara pierwszego stopnia, ban od 3 godzin do 4 dni.
+Awatar niezgodny z zasadami; upomnienie, kara pierwszego stopnia, ban od 10 minut do 1 godziny.
+Nagrywanie, bądź stream'owanie na kanałach gdzie jest to niedozwolone; kara pierwszego stopnia, ban od 4 godzin do 1 dni.
 Nieodpowiednia treść w nazwie lub opisie kanału; ban od 1 godziny do 2 dni.
 Niedostosowanie się do decyzji Administratora; ban od 5 godzin do 4 dni.
 Przerwanie lub zakłócanie pracy Administratora; ban od 5 godzin do 1 dni.
@@ -169,6 +175,6 @@ Każdy DJ ma prawo do urlopu, który musi zgłosić Head DJ'owi.
 DJ, który udziela głosu użytkownikowi na kanale muzycznym powinien sprawdzić czy dana osoba się do tego nadaje oraz czy nie próbuje reklamować jakiejś innej działalności lub strony internetowej.
 DJ ma obowiązek wyrobić normę 4 godzin tygodniowo.
 DJ po skończeniu audycji ma obowiązek przywrócić głos botowi lub poprosić administracje w celu przywrócenia głosu.
-Ostatnia modyfikacja: 27/07/2017
+Ostatnia modyfikacja: 04/08/2017
 
 • Powyższy regulamin został zaakceptowany przez Zarząd Serwera Gadamtu.pl.
